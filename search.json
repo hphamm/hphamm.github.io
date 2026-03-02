@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "my-first-project/index.html",
+    "href": "my-first-project/index.html",
+    "title": "Your Project Title",
     "section": "",
-    "text": "Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?"
+    "text": "Introduction\nThis is my cool post."
   },
   {
     "objectID": "index.html",
@@ -19,5 +19,12 @@
     "title": "Welcome!",
     "section": "Next Steps",
     "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?"
   }
 ]
