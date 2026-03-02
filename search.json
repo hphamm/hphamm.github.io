@@ -2,9 +2,9 @@
   {
     "objectID": "my-first-project/index.html",
     "href": "my-first-project/index.html",
-    "title": "Your Project Title",
+    "title": "My Portfolio",
     "section": "",
-    "text": "Introduction\nThis is my cool post."
+    "text": "title: “My Portfolio” navbar: left: - href: index.qmd text: Home - href: about.qmd text: About Me - href: my-first-project/index.qmd text: My First Project"
   },
   {
     "objectID": "index.html",
